@@ -1,7 +1,6 @@
 # About
 The algorithm is implemented according to the book "Introduction to Data Mining (Second Edition)" by Pang-Ning Tan.<br>
 <br>
-<br>
 
 # Steps To Use
 <h2>View the attached dataset named "heart_disease.csv" for a better understanding.</h2>
@@ -12,7 +11,6 @@ The algorithm is implemented according to the book "Introduction to Data Mining 
 <li>"file_name" should be updated inside the script according to your dataset after following the previous steps.</li>
 <li>After completing the previous steps, the script can be run as a typical Python 3 script, and it should output the accuracy of the given dataset.</li>
 </ol>
-<br>
 <br>
 
 # Note
